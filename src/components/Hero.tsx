@@ -111,13 +111,6 @@ export default function Hero() {
                 ./view_work
                 <ArrowRight size={16} />
               </a>
-              <a
-                href="#contact"
-                className="px-5 py-2.5 bg-slate-900/80 border-2 border-cyan-500/40 text-cyan-300 rounded-lg font-semibold hover:border-cyan-400 hover:bg-cyan-500/10 transition-all duration-300 transform hover:scale-105 flex items-center gap-2 text-sm"
-              >
-                <Mail size={16} />
-                ./hire_me
-              </a>
             </div>
 
             <div className="grid grid-cols-3 gap-3 pt-2 max-w-md">
